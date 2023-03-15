@@ -1,268 +1,37 @@
-https://www.uzhnu.edu.ua/uk/
-/uk/cat/faculty
-/en/cat/faculty
-#
-/uk/
-https://www.uzhnu.edu.ua/uk/cat/s_subdivisions-dep_personal/vacancies
-https://www.uzhnu.edu.ua/uk/infocentre/get/10741
-https://www.uzhnu.edu.ua/uk/infocentre/get/22606
-/uk/cat/general_pages/contacts
-/uk/site/login
-#
-https://www.uzhnu.edu.ua/uk/news/
-/uk/cat/university-about_us
-/uk/cat/about_us-video
-/uk/cat/university-directors
-/uk/cat/university-council
-/uk/cat/university-history
-/uk/cat/university-symbols
-/uk/cat/general_pages/univ_structure
-/uk/cat/university-museums
-/uk/cat/museums-zoo_museum
-/uk/cat/museums-history_mus
-/uk/cat/museums-arich_muz
-/uk/cat/museums-bot_garden
-/uk/news/cat/media_about_us
-http://www.uzhnu.edu.ua/uk/infocentre/450
-/uk/cat/general_pages/public_info
-/uk/cat/university-dev_strategy
-https://www.uzhnu.edu.ua/uk/infocentre/get/10568
-/uk/cat/university-volunteerism
-/uk/cat/university-int_alum_assoc
-/uk/cat/university-policy_of_ssd
-/uk/cat/policy_of_ssd-sust_dev
-/uk/cat/policy_of_ssd-gender_center
-/uk/cat/abiturient
-https://www.uzhnu.edu.ua/uk/cat/abiturient/about
-https://www.uzhnu.edu.ua/uk/cat/abiturient/presentations
-/uk/cat/faculty
-/uk/cat/abiturient-foreign
-/uk/cat/foreign-representatives
-/uk/cat/foreign-acc_activation
-https://docs.google.com/forms/d/19rPqCOjyf9LztsSEiTEaZlE3PaOzZeAR3sA6VW30cqM/viewform?ts=62deb606&edit_requested=true
-/uk/cat/university-humanitar
-/uk/cat/humanitar-hu_history
-/uk/cat/humanitar-hu_filology
-/uk/cat/humanitar-hu_fizmath
-/uk/cat/humanitar-centre_hungary
-/uk/cat/university-college
-https://www.uzhnu.edu.ua/uk/infocentre/15068
-#
-/uk/cat/faculty
-/uk/cat/university-humanitar
-/uk/cat/humanitar-hu_history
-/uk/cat/humanitar-hu_filology
-/uk/cat/humanitar-hu_fizmath
-/uk/cat/humanitar-centre_hungary
-/uk/cat/university-college
-/uk/cat/university-dwise_training
-/uk/cat/dwise_training-help_ato
-https://www.uzhnu.edu.ua/uk/cat/science-aspirant
-/uk/cat/university-int_alum_assoc
-/uk/cat/student-self_government
-/uk/cat/student-nauk_tov
-https://www.uzhnu.edu.ua/uk/cat/s_subdivisions-dep_hum_ed_work
-https://www.uzhnu.edu.ua/uk/cat/dep_hum_ed_work-employment
-/uk/cat/student-sportandleasure
-/uk/cat/student-career_center
-/uk/cat/educ_dep-dep_stud
-/uk/cat/s_subdivisions-stud_union_comm
-https://www.uzhnu.edu.ua/uk/infocentre/15068
-/uk/cat/student-public_lectures
-https://www.uzhnu.edu.ua/uk/cat/deps-ndc_innov_rozv/events
-http://www.uzhnu.edu.ua/uk/cat/abiturient-foreign
-https://www.uzhnu.edu.ua/uk/cat/student-class_schedules/class_schedules
-https://www.uzhnu.edu.ua/uk/infocentre/40666
-https://www.uzhnu.edu.ua/uk/infocentre/33387
-#
-https://uzhnu.edu.ua/uk/cat/science-atest_kom
-http://www.uzhnu.edu.ua/uk/cat/science-aspirant
-/uk/cat/science-cat_grants
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/grant
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/intr_projects
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/completed_grants
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/daydzhest
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/contests
-http://www.lib.uzhnu.edu.ua/
-http://www.uzhnu.edu.ua/uk/cat/student-nauk_tov
-https://www.uzhnu.edu.ua/uk/cat/deps-ndc_innov_rozv/events
-https://www.uzhnu.edu.ua/uk/infocentre/33564
-http://www.uzhnu.edu.ua/uk/cat/science-ndch
-http://www.uzhnu.edu.ua/uk/cat/science-deps
-https://www.uzhnu.edu.ua/uk/cat/science-resources
-https://www.uzhnu.edu.ua/uk/cat/science-scientific_coun
-http://www.uzhnu.edu.ua/uk/cat/science-cou_of_youn_sci
-#
-https://uzhnu.edu.ua/uk/cat/edit_publ-red_rada
-https://uzhnu.edu.ua/uk/cat/edit_publ-ed_pub_dep
-https://www.uzhnu.edu.ua/uk/infocentre/get/51494
-https://uzhnu.edu.ua/uk/infocentre/53409
-https://uzhnu.edu.ua/uk/cat/science-vch_sekr
-http://www.uzhnu.edu.ua/uk/cat/science-science_spec_sc
-/uk/cat/irelations
-/uk/cat/irelations-dep_irelations
-/uk/cat/irelations-partners
-/uk/cat/irelations-ir_grants
-/uk/cat/irelations-projects
-http://erasmusplus.uzhnu.edu.ua/
-/uk/cat/irelations-double_diploms
-#
-#
-https://www.uzhnu.edu.ua/uk/news/
-/uk/cat/university-about_us
-/uk/cat/about_us-video
-/uk/cat/university-directors
-/uk/cat/university-council
-/uk/cat/university-history
-/uk/cat/university-symbols
-/uk/cat/general_pages/univ_structure
-/uk/cat/university-museums
-/uk/cat/museums-zoo_museum
-/uk/cat/museums-history_mus
-/uk/cat/museums-arich_muz
-/uk/cat/museums-bot_garden
-/uk/news/cat/media_about_us
-http://www.uzhnu.edu.ua/uk/infocentre/450
-/uk/cat/general_pages/public_info
-/uk/cat/university-dev_strategy
-https://www.uzhnu.edu.ua/uk/infocentre/get/10568
-/uk/cat/university-volunteerism
-/uk/cat/university-int_alum_assoc
-/uk/cat/university-policy_of_ssd
-/uk/cat/policy_of_ssd-sust_dev
-/uk/cat/policy_of_ssd-gender_center
-/uk/cat/abiturient
-https://www.uzhnu.edu.ua/uk/cat/abiturient/about
-https://www.uzhnu.edu.ua/uk/cat/abiturient/presentations
-/uk/cat/faculty
-/uk/cat/abiturient-foreign
-/uk/cat/foreign-representatives
-/uk/cat/foreign-acc_activation
-https://docs.google.com/forms/d/19rPqCOjyf9LztsSEiTEaZlE3PaOzZeAR3sA6VW30cqM/viewform?ts=62deb606&edit_requested=true
-/uk/cat/university-humanitar
-/uk/cat/humanitar-hu_history
-/uk/cat/humanitar-hu_filology
-/uk/cat/humanitar-hu_fizmath
-/uk/cat/humanitar-centre_hungary
-/uk/cat/university-college
-https://www.uzhnu.edu.ua/uk/infocentre/15068
-#
-/uk/cat/faculty
-/uk/cat/university-humanitar
-/uk/cat/humanitar-hu_history
-/uk/cat/humanitar-hu_filology
-/uk/cat/humanitar-hu_fizmath
-/uk/cat/humanitar-centre_hungary
-/uk/cat/university-college
-/uk/cat/university-dwise_training
-/uk/cat/dwise_training-help_ato
-https://www.uzhnu.edu.ua/uk/cat/science-aspirant
-/uk/cat/university-int_alum_assoc
-/uk/cat/student-self_government
-/uk/cat/student-nauk_tov
-https://www.uzhnu.edu.ua/uk/cat/s_subdivisions-dep_hum_ed_work
-https://www.uzhnu.edu.ua/uk/cat/dep_hum_ed_work-employment
-/uk/cat/student-sportandleasure
-/uk/cat/student-career_center
-/uk/cat/educ_dep-dep_stud
-/uk/cat/s_subdivisions-stud_union_comm
-https://www.uzhnu.edu.ua/uk/infocentre/15068
-/uk/cat/student-public_lectures
-https://www.uzhnu.edu.ua/uk/cat/deps-ndc_innov_rozv/events
-http://www.uzhnu.edu.ua/uk/cat/abiturient-foreign
-https://www.uzhnu.edu.ua/uk/cat/student-class_schedules/class_schedules
-https://www.uzhnu.edu.ua/uk/infocentre/40666
-https://www.uzhnu.edu.ua/uk/infocentre/33387
-#
-https://uzhnu.edu.ua/uk/cat/science-atest_kom
-http://www.uzhnu.edu.ua/uk/cat/science-aspirant
-/uk/cat/science-cat_grants
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/grant
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/intr_projects
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/completed_grants
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/daydzhest
-https://www.uzhnu.edu.ua/uk/cat/science-cat_grants/contests
-http://www.lib.uzhnu.edu.ua/
-http://www.uzhnu.edu.ua/uk/cat/student-nauk_tov
-https://www.uzhnu.edu.ua/uk/cat/deps-ndc_innov_rozv/events
-https://www.uzhnu.edu.ua/uk/infocentre/33564
-http://www.uzhnu.edu.ua/uk/cat/science-ndch
-http://www.uzhnu.edu.ua/uk/cat/science-deps
-https://www.uzhnu.edu.ua/uk/cat/science-resources
-https://www.uzhnu.edu.ua/uk/cat/science-scientific_coun
-http://www.uzhnu.edu.ua/uk/cat/science-cou_of_youn_sci
-#
-https://uzhnu.edu.ua/uk/cat/edit_publ-red_rada
-https://uzhnu.edu.ua/uk/cat/edit_publ-ed_pub_dep
-https://www.uzhnu.edu.ua/uk/infocentre/get/51494
-https://uzhnu.edu.ua/uk/infocentre/53409
-https://uzhnu.edu.ua/uk/cat/science-vch_sekr
-http://www.uzhnu.edu.ua/uk/cat/science-science_spec_sc
-/uk/cat/irelations
-/uk/cat/irelations-dep_irelations
-/uk/cat/irelations-partners
-/uk/cat/irelations-ir_grants
-/uk/cat/irelations-projects
-http://erasmusplus.uzhnu.edu.ua/
-/uk/cat/irelations-double_diploms
-/uk/
-/uk/cat/faculty
-/uk/cat/faculty-biolog
-/uk/cat/faculty-geograph
-/uk/cat/faculty-economics
-/uk/cat/faculty-engineer
-/uk/cat/faculty-medical
-/uk/cat/faculty-medical2
-/uk/cat/faculty-fstomat
-/uk/cat/faculty-health
-/uk/cat/faculty-iif
-/uk/cat/faculty-fit
-/uk/cat/faculty-fhistory_relati
-/uk/cat/faculty-mdt
-/uk/cat/faculty-interrelations
-/uk/cat/faculty-pdodp
-/uk/cat/faculty-fsusp
-/uk/cat/faculty-ftourism
-/uk/cat/faculty-fphysics
-/uk/cat/faculty-ffilology
-/uk/cat/faculty-fchemistry
-/uk/cat/faculty-flaw
-/uk/anounce/
-/uk/rss
-/uk/anounce/2030.htm
-/uk/anounce/
-/uk/news/?top_last=month
-/uk/rss
-/uk/news/uzhnu-u-liderah-vstupnoji-kampaniji-2022.htm
-/uk/news/uzhnu-u-liderah-vstupnoji-kampaniji-2022.htm
-/uk/news/v-uzhnu-zapratsyuvav-navchalno-naukovij-tsentr-pidvish-kvalif.htm
-/uk/news/v-uzhnu-zapratsyuvav-navchalno-naukovij-tsentr-pidvish-kvalif.htm
-/uk/news/vidbulasya-77-a-pidsumkova-naukova-konferentsiya-profesorsko.htm
-/uk/news/vidbulasya-77-a-pidsumkova-naukova-konferentsiya-profesorsko.htm
-/uk/news/Identichnosti-v-umovah-pogranichchya-2023.htm
-/uk/news/Identichnosti-v-umovah-pogranichchya-2023.htm
-/uk/news/uzhnu-rik-vijni.htm
-/uk/news/uzhnu-rik-vijni.htm
-/uk/news/365-dnIv-sprotivuyaki-zminili-svit-ukrajinu-i-nas.htm
-/uk/news/365-dnIv-sprotivuyaki-zminili-svit-ukrajinu-i-nas.htm
-/uk/news/mizhkonfesijni-shlyubi-na-zakarpatti.htm
-/uk/news/mizhkonfesijni-shlyubi-na-zakarpatti.htm
-/uk/news/?top_last=month
-https://www.facebook.com/uzhnu
-https://www.youtube.com/channel/UCSIfo-iRoeS7nf5957HnI0Q/videos
-/uk/cat/general_pages/tender_commit
-/uk/cat/general_pages/support
-/uk/cat/general_pages/terms_of_use
-https://www.uzhnu.edu.ua/uk/cat/general_pages/stop_corruption
-https://mon.gov.ua/
-http://erasmusplus.org.ua/
-http://visegradfund.org/
-https://huskroua-cbc.eu/
-http://www.cost.eu/
-/uk/consortium/
-http://www.ncp.uzhnu.edu.ua
-https://ro-ua.net
-/uk/cat/general_pages/contacts#map
-mailto:official@uzhnu.edu.ua
-mailto:admission@uzhnu.edu.ua
-/uk/cat/university-it
+href: https://github.com/freeCodeCamp/devdocs/issues/new/choose
+href: https://github.com/
+href: /signup?return_to=https%3A%2F%2Fgithub.com%2FfreeCodeCamp%2Fdevdocs%2Fissues%2Fnew%2Fchoose&source=login
+href: https://github.com/contact
+href: https://docs.github.com
+href: https://skills.github.com/
+href: https://github.blog
+href: https://education.github.com
+href: https://resources.github.com/devops/
+href: https://resources.github.com/devops/fundamentals/devsecops/
+href: https://resources.github.com/
+href: https://galaxy.github.com/?utm_source=github&utm_medium=banner&utm_campaign=gal23lo
+href: https://github.com/features/security/code
+href: https://resources.github.com/security/sast/
+href: https://resources.github.com/newsletter/
+href: https://resources.github.com
+href: https://github.com/github/roadmap
+href: https://partner.github.com
+href: https://www.electronjs.org
+href: https://desktop.github.com/
+href: https://github.community
+href: https://services.github.com/
+href: https://www.githubstatus.com/
+href: https://support.github.com?tags=dotcom-footer
+href: https://github.com/about
+href: https://socialimpact.github.com/
+href: https://shop.github.com
+href: https://twitter.com/github
+href: https://www.facebook.com/GitHub
+href: https://www.linkedin.com/company/github
+href: https://www.youtube.com/github
+href: https://www.twitch.tv/github
+href: https://www.tiktok.com/@github
+href: https://github.com/github
+href: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+href: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+href: https://github.com/github/site-policy/pull/582
