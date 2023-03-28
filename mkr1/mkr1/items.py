@@ -5,6 +5,11 @@
 
 import scrapy
 
+class ProductItem(scrapy.Item):
+    name = scrapy.Field()
+    url = scrapy.Field()
+    price = scrapy.Field()
+    image_urls = scrapy.Field()
 
 class Mkr1Item(scrapy.Item):
     # define the fields for your item here like:
